@@ -9,4 +9,4 @@ Lugo game made with combination of CSS and Bootstrap, inspired by SNES design.
 - Bootstrap responsive design
 - CSS animation
 
-[Github Pages]()
+[Github Pages](https://anabrd.github.io/snes-css-ludo/)
