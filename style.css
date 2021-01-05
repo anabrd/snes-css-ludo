@@ -1,9 +1,7 @@
 body {
     background-color: #38b8e9;
-    background-image: url(./sky.jpg);
     background-size: 50vh;
     text-align: center;
-    animation: move 60s steps(30) infinite;
 }
 
 @keyframes move {
